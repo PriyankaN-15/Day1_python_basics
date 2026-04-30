@@ -3,7 +3,7 @@
 name = "Priyanka"
 age = 23
 is_employee = True
-weight = 50.1
+weight = 50.10
 
 print(type(name))
 print(type(age))
